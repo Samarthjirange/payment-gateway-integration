@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\OneDrive\\Pictures\\Screenshots"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": ".vscode"
+    }
+}
